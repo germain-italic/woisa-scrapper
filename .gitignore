@@ -1,3 +1,4 @@
 config.ini
-downloads/
+downloads/*
+!downloads/.gitkeep
 debug.log
