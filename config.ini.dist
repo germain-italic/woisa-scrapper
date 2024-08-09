@@ -1,0 +1,14 @@
+[Cookie]
+name = POLYxxxxxxxx
+value = xxxxxxxxxxx
+
+[Scraping]
+start_page = 0 # 0 = first page
+end_page = 1 # 1 = second page, etc.
+
+[Paths]
+save_dir = downloads
+
+[URLs]
+base_url = https://<votre-domiciliation>.woisa.net
+document_base_url = https://<votre-domiciliation>.woisa.net/espace-courriers.html?p=
