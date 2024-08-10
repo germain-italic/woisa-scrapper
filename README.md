@@ -2,6 +2,10 @@
 
 *Lire en [français](README.fr.md)*
 
+![Animation](img/hero.gif)
+
+---
+
 This Python script automates the process of downloading and renaming scanned mails from the ESP-xxxx WOISA portal.
 
 xxxx is usually the name of the domiciliary company you have subscribed to.

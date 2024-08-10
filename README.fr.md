@@ -1,7 +1,10 @@
 # Scraper de Documents ESP-xxxx
 
-
 *Read this in [English](README.md)*
+
+![Animation](img/hero.fr.gif)
+
+---
 
 Ce script Python automatise le processus de téléchargement de documents depuis le portail ESP-xxxx.
 
