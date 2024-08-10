@@ -82,3 +82,18 @@ If you encounter any issues:
 ## Disclaimer
 
 This script is for personal use only. Ensure you have the right to access and download these documents. Use responsibly and in accordance with ESP-xxxx's terms of service.
+
+
+## Contribution
+
+Pour générer de nouveaux GIF :
+
+- `gif_screen_source.png` : the source screenshot.
+- `gif_screen_result.png` : the result screenshot.
+- `hero.gif` : the generated GIF.
+
+```python
+pip install Pillow imageio
+cd img
+python gif-generator.py
+```

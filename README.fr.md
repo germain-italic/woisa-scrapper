@@ -79,3 +79,18 @@ Si vous rencontrez des problèmes :
 ## Avertissement
 
 Ce script est destiné à un usage personnel uniquement. Assurez-vous que vous avez le droit d'accéder et de télécharger ces documents. Utilisez-le de manière responsable et conformément aux conditions d'utilisation d'ESP-xxxx.
+
+
+## Contribution
+
+Pour générer de nouveaux GIF :
+
+- `gif_screen_source.png` : capture d'écran source.
+- `gif_screen_result.png` : capture d'écran résultat.
+- `hero.gif` : le GIF généré.
+
+```python
+pip install Pillow imageio
+cd img
+python gif-generator.py
+```
